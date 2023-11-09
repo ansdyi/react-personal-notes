@@ -2,8 +2,6 @@
 This project is the final assignment as part of the course on Building Personal Notes Applications Using React at Dicoding Academy's program.
 
 # Personal Notes with Some Criteria
-This project is the final assignment as part of the course on Building Personal Notes Applications Using React at Dicoding Academy's program.
-
 1: Able to Display a List of Notes
 ![Note Lists](https://github.com/ansdyi/react-personal-notes/assets/107469718/1208c791-e432-4e98-ac42-a2e176201a7e)
 
